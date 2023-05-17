@@ -1,0 +1,17 @@
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.csproj.AssemblyReference.cache
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.GeneratedMSBuildEditorConfig.editorconfig
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.AssemblyInfoInputs.cache
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.AssemblyInfo.cs
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.csproj.CoreCompileInputs.cache
+/home/corleone/Documentos/Garmin/G/bin/Debug/net7.0/G
+/home/corleone/Documentos/Garmin/G/bin/Debug/net7.0/G.deps.json
+/home/corleone/Documentos/Garmin/G/bin/Debug/net7.0/G.runtimeconfig.json
+/home/corleone/Documentos/Garmin/G/bin/Debug/net7.0/G.dll
+/home/corleone/Documentos/Garmin/G/bin/Debug/net7.0/G.pdb
+/home/corleone/Documentos/Garmin/G/bin/Debug/net7.0/G1000Rx.dll
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.csproj.CopyComplete
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.dll
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/refint/G.dll
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.pdb
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/G.genruntimeconfig.cache
+/home/corleone/Documentos/Garmin/G/obj/Debug/net7.0/ref/G.dll
